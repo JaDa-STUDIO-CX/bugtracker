@@ -19,8 +19,8 @@
 - spezielle Linktree-Seite [https://jadastudio.cx/linktree](https://jadastudio.cx/linktree)
 
 ## aktualisiert
--[Linktree-Seite](https://jadastudio.cx/linktree): Template-Struktur / Code
--[Linktree-Seite](https://jadastudio.cx/linktree): CSS für alle Geräteplattformen
+- [Linktree-Seite](https://jadastudio.cx/linktree): Template-Struktur / Code
+- [Linktree-Seite](https://jadastudio.cx/linktree): CSS für alle Geräteplattformen
 ## gefixt
 ---[]
 
