@@ -15,7 +15,8 @@
 - Font Awesome v6.4.0
 - mobiles CSS Standart
 
--div. Automatics wie Redirect (Kickme.to), globale Konfigurationen, Py-Module
+- div. Automatics wie Redirect (Kickme.to), globale Konfigurationen, Py-Module
+- spezielle Linktree-Seite [https://jadastudio.cx/linktree](https://jadastudio.cx/linktree)
 
 ## akutalisiert
 ---[]
