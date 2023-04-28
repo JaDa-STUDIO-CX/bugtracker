@@ -1,5 +1,5 @@
 # 0.14042023 PreALPHA
-** Veröffentlichung vom 28.04.2023 **
+**Veröffentlichung vom 28.04.2023, Aktualisierung am 28.04.2023**
 
 
 ## hinzugefügt
@@ -18,8 +18,9 @@
 - div. Automatics wie Redirect (Kickme.to), globale Konfigurationen, Py-Module
 - spezielle Linktree-Seite [https://jadastudio.cx/linktree](https://jadastudio.cx/linktree)
 
-## akutalisiert
----[]
+## aktualisiert
+-[Linktree-Seite](https://jadastudio.cx/linktree): Template-Struktur / Code
+-[Linktree-Seite](https://jadastudio.cx/linktree): CSS für alle Geräteplattformen
 ## gefixt
 ---[]
 
