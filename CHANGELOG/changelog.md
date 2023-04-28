@@ -21,6 +21,7 @@
 ## aktualisiert
 - [Linktree-Seite](https://jadastudio.cx/linktree): Template-Struktur / Code
 - [Linktree-Seite](https://jadastudio.cx/linktree): CSS für alle Geräteplattformen
+- [Web-Portal](https://jadastudio.cx): Neue Menü- und Footer-Struktur
 ## gefixt
 ---[]
 
